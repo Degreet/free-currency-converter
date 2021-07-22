@@ -1,0 +1,24 @@
+{
+  "name": "free-currency-converter",
+  "version": "1.0.2",
+  "description": "Free currency converter with parser from netex24.net",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon example.js"
+  },
+  "keywords": [
+    "currency",
+    "converter",
+    "free",
+    "puppeteer",
+    "parser"
+  ],
+  "author": "Degreet <degreetpro@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^10.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
